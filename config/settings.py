@@ -153,3 +153,6 @@ LOGIN_REDIRECT_URL = '/'
 
 # 로그아웃시 이동하는 URL
 LOGOUT_REDIRECT_URL = '/'
+
+# CSRF 권한 획득
+CSRF_TRUSTED_ORIGINS = ["https://port-0-pycharm-dcse2bli9yxx6q.sel4.cloudtype.app/"]
