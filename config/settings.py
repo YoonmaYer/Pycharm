@@ -155,4 +155,4 @@ LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
 
 # CSRF 권한 획득
-CSRF_TRUSTED_ORIGINS = ["https://port-0-pycharm-dcse2bli9yxx6q.sel4.cloudtype.app/"]
+CSRF_TRUSTED_ORIGINS = ["https://port-0-pycharm-dcse2bli9yxx6q.sel4.cloudtype.app",]
